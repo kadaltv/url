@@ -1,0 +1,818 @@
+
+#EXTM3U 
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+TVRI,https://cmt.mb13.cyou/c/tvri/aceh.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+TVRI,https://cmt.mb13.cyou/c/tvri/bali.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+TVRI,https://cmt.mb13.cyou/c/tvri/bangkabelitung.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+TVRI,https://cmt.mb13.cyou/c/tvri/bengkulu.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+TVRI,https://cmt.mb13.cyou/c/tvri/gorontalo.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+JAKARTA,https://cmt.mb13.cyou/c/tvri/jakarta.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+JAMBI,https://cmt.mb13.cyou/c/tvri/jambi.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+JAWA BARAT,https://cmt.mb13.cyou/c/tvri/jawabarat.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+JAWA TENGAh,https://cmt.mb13.cyou/c/tvri/jawatengah.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+JAWA TIMUR,https://cmt.mb13.cyou/c/tvri/jawatimur.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+KALIMANTAN BARAT,https://cmt.mb13.cyou/c/tvri/kalimantanbarat.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+KALIMANTAN SELATAN,https://cmt.mb13.cyou/c/tvri/kalimantanselatan.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+KALIMANTAN TENGAH,https://cmt.mb13.cyou/c/tvri/kalimantantimur.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+LAMPUNG,https://cmt.mb13.cyou/c/tvri/lampung.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+MALUKU,https://cmt.mb13.cyou/c/tvri/maluku.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+NUSA TENGGARA BARAT,https://cmt.mb13.cyou/c/tvri/nusatenggarabarat.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+NUSA TENGGARA TIMUR,https://cmt.mb13.cyou/c/tvri/nusatenggaratimur.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+PAPUA,https://cmt.mb13.cyou/c/tvri/papua.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+RIAU,https://cmt.mb13.cyou/c/tvri/riau.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+SULAWESI BARAT,https://cmt.mb13.cyou/c/tvri/sulawesibarat.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+SULAWESI SELATAN,https://cmt.mb13.cyou/c/tvri/sulawesiselatan.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+SULAWESI TENGAH,https://cmt.mb13.cyou/c/tvri/sulawesitengah.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+SULAWESI TENGGARA,https://cmt.mb13.cyou/c/tvri/sulawesitenggara.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+SULAWESI UTARA,https://cmt.mb13.cyou/c/tvri/sulawesiutara.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+SUMATERA BARAT,https://cmt.mb13.cyou/c/tvri/sumaterabarat.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+SUMATERA SELATAN,https://cmt.mb13.cyou/c/tvri/sumateraselatan.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+SUMATERA UTARA,https://cmt.mb13.cyou/c/tvri/sumaterautara.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+YOGYAKARTA,https://cmt.mb13.cyou/c/tvri/yogyakarta.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+ANTARA,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-antara&b=14&c=antara
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+antv,https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Berita Satu,https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Berita Satu World,https://cmt.mb13.cyou/c/alt/beritasatuworld.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+CNBC Indonesia,https://cmt.mb13.cyou/c/a/cnbcindonesia.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+CNN Indonesia,https://cmt.mb13.cyou/c/a/cnnindonesia.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+GTV,https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+IDX,https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Indosiar,https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+iNews,https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Jakarta Globe,https://cmt.mb13.cyou/c/a/jakartaglobe.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Kompas TV,https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Metro TV,https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+MNC News,https://liveanevia.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+MNCTV,https://liveanevia.mncnow.id/live/eds/MNCTV-,hD/sa_dash_vmx/MNCTV-hD.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+mytv,https://cmt.mb13.cyou/c/mstream/mytv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Net TV,https://liveanevia.mncnow.id/live/eds/NetTV-,hD/sa_dash_vmx/NetTV-hD.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+RCTI,https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+rtv,https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+SCTV,https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Trans 7,https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Trans TV,https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+tvOne,https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+TVRI,https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+TVRI,https://liveanevia.mncnow.id/live/eds/TVRI/sa_dash_vmx/TVRI.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+TVRI Kanal 3,https://cmt.mb13.cyou/c/alt/tvrikanal3.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+TVRI Sport,https://cmt.mb13.cyou/c/alt/tvrisport.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+ADiTV,https://cmt.mb13.cyou/c/a/aditv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Bali TV,https://liveanevia.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Bandung TV,https://cmt.mb13.cyou/c/a/bandungtv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Banten TV,https://cmt.mb13.cyou/c/lokal/bantentv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Bayu TV Nganjuk,https://cmt.mb13.cyou/c/lokal/bayutv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+BETV Beken,https://cmt.mb13.cyou/c/lokal/betvbeken.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+BMS TV Banyumas,https://cmt.mb13.cyou/c/lokal/bmstv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+BTV Balikpapan,https://cmt.mb13.cyou/c/lokal/balikpapantv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+BTV Batam,https://cmt.mb13.cyou/c/lokal/batamtv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Bungo TV,https://cmt.mb13.cyou/c/lokal/bungotv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Citra TV Lamongan,https://cmt.mb13.cyou/c/lokal/citratvlamongan.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+CTV Banten,https://cmt.mb13.cyou/c/a/ctvbanten.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Dayak TV,https://cmt.mb13.cyou/c/lokal/dayaktv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+DIGDAYA TV,https://cmt.mb13.cyou/c/g/digdayatv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Els,hinta TV,https://cmt.mb13.cyou/c/a/elshintatv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+FAJAR TV Makassar,https://cmt.mb13.cyou/c/lokal/fajartvmakassar.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+JAKTV,https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Jambi TV,https://cmt.mb13.cyou/c/lokal/jambitv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Jawapos TV,https://cmt.mb13.cyou/c/lokal/jawapostv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+JEKTV Jambi,https://cmt.mb13.cyou/c/lokal/jektvjambi.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+jitv,https://cmt.mb13.cyou/c/alt/jitv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Jogja TV,https://cmt.mb13.cyou/c/alt/jogjatv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+JTV,https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+JTV Pacitan,https://cmt.mb13.cyou/c/lokal/jtvpacitan.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Jurnal TV,https://cmt.mb13.cyou/c/lokal/jurnaltv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Kawanua TV Manado,https://cmt.mb13.cyou/c/lokal/kawanuatvmanado.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Lombok TV,https://cmt.mb13.cyou/c/mstream/lomboktv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Madu TV,https://cmt.mb13.cyou/c/lokal/madutv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+MGS TV,https://cmt.mb13.cyou/c/a/mgstv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Nirwana TV,https://cmt.mb13.cyou/c/lokal/nirwanatv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+PALTV Palembang,https://cmt.mb13.cyou/c/lokal/palembangtv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+PONTV Pontianak,https://cmt.mb13.cyou/c/lokal/pontv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Prima TV,https://cmt.mb13.cyou/c/lokal/primatv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Radar TV Tasikmalaya,https://cmt.mb13.cyou/c/lokal/radartv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+RBTV Bengkulu,https://cmt.mb13.cyou/c/lokal/rbtvbengkulu.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+RCTV Cirebon,https://cmt.mb13.cyou/c/lokal/radarcirebontv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+RRI NET,https://cmt.mb13.cyou/c/a/rrinet.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+RTV Riau,https://cmt.mb13.cyou/c/lokal/riautv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Sakti TV Madiun,https://cmt.mb13.cyou/c/lokal/saktitv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Siak TV,https://cmt.mb13.cyou/c/lokal/siaktv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Simpang5 TV,https://cmt.mb13.cyou/c/lokal/simpang5tv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+SMTV,https://cmt.mb13.cyou/c/lokal/smtv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Sultra TV Kendari,https://cmt.mb13.cyou/c/lokal/sultratv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+TATV,https://cmt.mb13.cyou/c/a/tatv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Tegar TV Jogja,https://cmt.mb13.cyou/c/a/tegartvjogja.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Tegar TV Lampung,https://cmt.mb13.cyou/c/a/tegartvlampung.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+TV DESA,https://cmt.mb13.cyou/c/lokal/tvdesa.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+TVKU,https://cmt.mb13.cyou/c/a/tvku.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+TVTPI Tanjungpinang,https://cmt.mb13.cyou/c/lokal/tvtpi.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+AhSAN TV,https://cmt.mb13.cyou/c/a/ahsantv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Ajwa TV,https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-7464&b=7464
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Al Quran Al Kareem,https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Al Sunnah Al Nabawiyan,https://cmt.mb13.cyou/c/alt/alsunnahalnabawiyah.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Al-Bahjah TV,https://cmt.mb13.cyou/c/a/albahjahtv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Al-Iman TV,https://cmt.mb13.cyou/c/a/alimantv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+As,hiil TV,https://cmt.mb13.cyou/c/a/ashiiltv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Citra Muslim,https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-6678&b=6678
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+hijrah TV,https://cmt.mb13.cyou/c/a/hijrahtv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+IAM,https://cmt.mb13.cyou/c/a/iam.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Insan TV,https://cmt.mb13.cyou/c/a/insantv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Izzah TV,https://cmt.mb13.cyou/c/a/izzahtv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+MNC Muslim,https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+MQTV,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-mqtv&b=14&c=mqtv"
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+mtatv,https://cmt.mb13.cyou/c/mstream/mtatv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Muadz TV,https://cmt.mb13.cyou/c/a/muadztv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Nabawi TV,https://cmt.mb13.cyou/c/a/nabawitv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Niaga TV,https://cmt.mb13.cyou/c/a/niagatv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+NU Channel,https://cmt.mb13.cyou/c/a/nuchannel.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+PULDAPII TV,https://cmt.mb13.cyou/c/a/puldapiitv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Rasyaad TV,https://cmt.mb13.cyou/c/a/rasyaadtv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Rodja TV,https://cmt.mb13.cyou/c/alt/rodjatv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Salam TV,https://cmt.mb13.cyou/c/a/salamtv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+SalingSapa TV,https://cmt.mb13.cyou/c/alt/salingsapa.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Surau TV,https://cmt.mb13.cyou/c/a/surautv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Tawaf TV,https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+TV Muhammadiya,https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+TV MUI,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-muitv&b=14&c=muitv
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+TV9,https://liveanevia.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Animal Planet,https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+B Adventure 4K,https://cmt.mb13.cyou/c/a/badventure4k.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+BBC Earth,https://liveanevia.mncnow.id/live/eds/BBCEart,h-hD/sa_dash_vmx/BBCEart,h-,hD.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Crime Investigation,https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Discovery,https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Discovery Asia,https://cmt.mb13.cyou/c/pre/discoveryasia.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Discovery Science,https://cmt.mb13.cyou/c/g/discoveryscience.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Discovery Turbo,https://cmt.mb13.cyou/c/g/discoveryturbo.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+DMAX,https://cmt.mb13.cyou/c/g/dmax.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+history,https://liveanevia.mncnow.id/live/eds/,history/sa_dash_vmx/,history.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Lingua,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-lingua&b=15&c=lingua
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Love Nature,https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-6635&b=geo_6635
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+NatGeo People,https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+NatGeo Wild,https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+National Geographic,https://liveanevia.mncnow.id/live/eds/NatGeoC,hannel/sa_dash_vmx/NatGeoC,hannel.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+OneTV Discovery,https://cmt.mb13.cyou/c/dolive/onetvdiscovery.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Outdoor Channel,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-outdoor&b=14&c=outdoor
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Smithsonian,https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-6550&b=geo_6550
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+tv Edukasi,https://cmt.mb13.cyou/c/mstream/tvedukasi.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+AFN,https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+dB LifeStyle,https://cmt.mb13.cyou/c/a/blifestylehd.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Blue Ant Entertainment,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-blueant&b=14&c=blueant
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Blue Ant Extreme,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-blueantextreme&b=14&c=blueantextreme
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Choppertown,https://dai.google.com/linear/,hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Citra Dangdut,https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-6587&b=6587
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Citra Entertainment,https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-6402&b=6402
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Cycle World,https://cmt.mb13.cyou/c/a/cycleworld.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+DAAI TV,https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+DIGIONE,https://cmt.mb13.cyou/c/mstream/digione.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Dunia Lain,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-dunialain&b=14&c=dunialain
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Eat&Go,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-eatgo&b=14&c=eatgo
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+El john TV,https://cmt.mb13.cyou/c/a/eljohn.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Entertainment,https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-7352&b=7352
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+FAILARMY,https://cmt.mb13.cyou/c/a/failarmy.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Hallypop,https://cmt.mb13.cyou/c/a/hallypop.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+hGTV,https://liveanevia.mncnow.id/live/eds/hGTV/sa_dash_vmx/,hGTV.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+hi Indo!,https://cmt.mb13.cyou/c/mstream/hi.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Insert,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-insert&b=14&c=insert
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+dKBS World,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-kbsworld&b=15&c=kbsworld
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+K-Plus,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-kplus&b=15&c=kplus
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+LifeStyle Fashion,https://liveanevia.mncnow.id/live/eds/LifeStyleFahion/sa_dash_vmx/LifeStyleFas,hion.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Lifetime,https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Magna C,hannel,https://cmt.mb13.cyou/c/mstream/magna.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+MNC Entertainment,https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dah_vmx/MNCEntertainment.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+MNC Infotainment,https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+ntv,https://cmt.mb13.cyou/c/a/ntv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+O Channel,https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-206&b=206
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+OKTV,https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Outside TV,https://cmt.mb13.cyou/c/a/outsidetv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+oxygen.id,https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=oxygentv
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+People Are Awesome,https://cmt.mb13.cyou/c/a/peopleareawesome.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+dRedbull TV,https://cmt.mb13.cyou/c/a/redbulltv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Ruang Trampil,https://cmt.mb13.cyou/c/mstream/ruangtrampil.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+SEA TODAY,https://cmt.mb13.cyou/c/mstream/idku.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+TechStorm,https://cmt.mb13.cyou/c/mstream/techstorm.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+The Indonesia C,hannel,https://cmt.mb13.cyou/c/mstream/tic.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+The Pet Collective,https://cmt.mb13.cyou/c/a/thepetcollective.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+TLC,https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Usee P,hoto,https://cmt.mb13.cyou/c/mstream/useephoto.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Usee Prime,https://cmt.mb13.cyou/c/mstream/useeprime.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Vision Prime,https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+WakuWaku Japan,https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+B Kids,https://cmt.mb13.cyou/c/a/bkids,hd.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Baby First,https://cmt.mb13.cyou/c/alt/babyfirstall.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+BeSmart,https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Boomerang,https://liveanevia.mncnow.id/live/eds/Boomerang/sa_das,h_vmx/Boomerang.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Cartoon Network,https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Cbeebies,https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Da Vinci,https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-6549&b=geo_6549
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Disney Channel,https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Disney Junior,https://liveanevia.mncnow.id/live/eds/DisneyJunior-hD/sa_dash_vmx/DisneyJunior-hD.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+DreamWorks,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-dreamworks&b=15&c=dreamworks
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Duck TV,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-ducktv&b=14&c=ducktv
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Dunia Anak,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-duniaanak&b=14&c=duniaanak
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+hip hip ,horee!,https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-7052&b=7052
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+hOREE,https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-6397&b=6397
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Kids Channel,https://liveanevia.mncnow.id/live/eds/KidsC,hannel/sa_dash_vmx/KidsChannel.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Mentari TV,https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=mentaritv
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+MiaoMi,https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+My Kids,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-mykids&b=14&c=mykids
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Nick Jr,https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Nickelodeon,https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Spacetoon,https://cmt.mb13.cyou/c/a/spacetoon.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+ZooMoo,https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-6533&b=geo_6533
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+ANIMAX,https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+AniPlus,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-aniplus&b=14&c=aniplus
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+ATV,https://cmt.mb13.cyou/c/alt/atv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+AXN,https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Bioskop Indonesia,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-bioskopindonesia&b=14&c=bioskopindonesia
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Celestial Classic Movies,https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Celestial Movies,https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Chinese Drama,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-chinesedrama&b=14&c=chinesedrama
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Cinemaworld,https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+CINEMAX,https://liveanevia.mncnow.id/live/eds/Cinemax,hD2/sa_dash_vmx/CinemaxhD2.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Cinta Bolly,https://cmt.mb13.cyou/c/ku/see/b.m3u8?a=114
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Citra Bioskop,https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-6684&b=6684
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Citra Drama,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-cdrama&b=14&c=cdrama
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Drakor Plus,https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=drakorplus
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+FLiK,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-flik&b=15&c=flik
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+FMN,https://liveanevia.mncnow.id/live/eds/FMN/sa_das,h_vmx/FMN.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+FOX,https://liveanevia.mncnow.id/live/eds/FoxC,hannel/sa_dash_vmx/FoxChannel.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Fox Action Movies,https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Fox Crime,https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Fox Family Movies,https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Fox Life,https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Fox Movies,https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+GALAXY,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-galaxy&b=15&c=galaxy
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Galaxy Premium,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-galaxypremium&b=15&c=galaxypremium
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+GEM,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-sgem&b=15&c=sgem
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+hBO,https://liveanevia.mncnow.id/live/eds/,hBO2/sa_das,h_vmx/hBO2.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+hBO Family,https://liveanevia.mncnow.id/live/eds/hBOFamily2/sa_das,h_vmx/,hBOFamily2.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+hBO hits,https://liveanevia.mncnow.id/live/eds/hBOhits/sa_dash_vmx/hBOhits.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+hBO Signature,https://liveanevia.mncnow.id/live/eds/hBOSignature2/sa_dash_vmx/hBOSignature2.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+hITS,https://liveanevia.mncnow.id/live/eds/,hITS/sa_dash_vmx/hITS.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+hits Movies,https://liveanevia.mncnow.id/live/eds/hitsMovies/sa_dash_vmx/hitsMovies.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+imc,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-imc&b=14&c=imc
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+KIX,https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+LBS TV K-Drama,https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=k-drama
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+My Cinema,https://cmt.mb13.cyou/c/a/mycinema.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+ONE,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-sone&b=15&c=sone
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+RED By ,hBO,https://cmt.mb13.cyou/c/ku/see/p.m3u8?a=5&b=10&d=REd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Sinema Indonesia,https://cmt.mb13.cyou/c/a/sinemaindonesia-hd.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Sinema Indonesia X,https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=sinemaindonesia-x
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Star Chinese Movies,https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Star Chinese Movies Legend,https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+thrill,https://liveanevia.mncnow.id/live/eds/T,hrill/sa_dash_vmx/Thrill.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+TV P,https://cmt.mb13.cyou/c/ku/see/b.m3u8?a=111
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+TVin,https://cmt.mb13.cyou/c/ku/see/b.m3u8?a=115
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+tvN,https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+tvN Movies,https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Warner TV,https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Zee BIOSKOP,https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+ZQTV Drama,http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Music Channel Romania,https://cmt.mb13.cyou/c/a/1musicchannel.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Music Channel hungary,https://cmt.mb13.cyou/c/a/1musicchannelhu.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Baeble Music,https://cmt.mb13.cyou/c/a/baeble.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Channel V,https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+hIT Music C,hannel,https://cmt.mb13.cyou/c/a/hitmusic.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+i konser,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-ikonser&b=14&c=ikonser
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Karaoke Channel,https://cmt.mb13.cyou/c/a/karaokechannel.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+M Channel,https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=matrixtv
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+m2o,https://cmt.mb13.cyou/c/a/m2o.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Maleo,https://cmt.mb13.cyou/c/alt/maleo.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+MTV Live,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-mtvlive&b=15&c=mtvlive
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Music Channel,https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Pop Musik,https://cmt.mb13.cyou/c/alt/popmusik.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Prambors TV,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-pramborstv&b=14&c=pramborstv
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Q Music,https://cmt.mb13.cyou/c/a/qmusic.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Stingray Karaoke,https://cmt.mb13.cyou/c/a/stringraykaraoke.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Astro Supersport,https://cmt.mb13.cyou/c/dolive/astrosupersport.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Astro Supersport 2,https://cmt.mb13.cyou/c/dolive/astrosupersport2-alt.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Astro Supersport 3,https://cmt.mb13.cyou/c/dolive/astrosupersport3.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Astro Supersport 4,https://cmt.mb13.cyou/c/dolive/astrosupersport4-alt.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+BeIN 1,https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+BeIN 2,https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Bein Sports hD 1,https://cmt.mb13.cyou/c/livedo/bein1hd.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Bein Sports hD 2,https://cmt.mb13.cyou/c/livedo/bein2hd.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Bein Sports Xtra,https://cmt.mb13.cyou/c/alt/beinxtra2.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+BT Sport 1,https://cmt.mb13.cyou/c/livedo/btsport1.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+BT Sport 2,https://cmt.mb13.cyou/c/livedo/btsport2.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Champions TV 1,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-champion1&b=15&c=champion1
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Champions TV 2,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-champion2&b=15&c=champion2
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Champions TV 3,https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-6786&b=geo_6786
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Channel Fight,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=114
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Chelsea TV,https://cmt.mb13.cyou/c/livedo/chelseatv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+CombatGo,https://cmt.mb13.cyou/c/dolive/combatgo.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Dunia Games TV,https://cmt.mb13.cyou/c/mstream/dgtv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+EDGEsport,https://cmt.mb13.cyou/c/dolive/edgesport.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+EGG,https://cmt.mb13.cyou/c/alt/egg.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Eurosport 1,https://cmt.mb13.cyou/c/livedo/eurosport1.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Eurosport 2,https://cmt.mb13.cyou/c/livedo/eurosport2.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+FC BAYERN TV,https://cmt.mb13.cyou/c/livedo/fcbtv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Fight Sports,https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Fighting Spirit,https://cmt.mb13.cyou/c/a/fightingspirit.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+FOX Sports,https://liveanevia.mncnow.id/live/eds/FOXSports/sa_dash_vmx/FOXSports.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+FOX Sports 2,https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_dash_vmx/FoxSports2.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+FOX Sports 3,https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+GOLF,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-golfplus&b=15&c=golfplus
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+hard Knocks,https://cmt.mb13.cyou/c/a/hardknocks.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+LFCTV,https://cmt.mb13.cyou/c/livedo/lfctv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+MNC Sports,https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+MUTV,https://cmt.mb13.cyou/c/livedo/mutv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+NBA,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-nba&b=15&c=nba
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+OneTV Sports 11,https://cmt.mb13.cyou/c/dolive/onetvsports11.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+OneTV Sports 9,https://cmt.mb13.cyou/c/dolive/onetvsports9.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Persija TV,https://cmt.mb13.cyou/c/a/persijatv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+PTV Sports,https://cmt.mb13.cyou/c/dolive/ptvsports.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Racing.com,https://cmt.mb13.cyou/c/alt/racingcom.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Sky Net Sports 1,https://cmt.mb13.cyou/c/livedo/skynetsports1.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Sky Net Sports 2,https://cmt.mb13.cyou/c/livedo/skynetsports2.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Sky Net Sports 3,https://cmt.mb13.cyou/c/livedo/skynetsports3.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Sky Net Sports 4,https://cmt.mb13.cyou/c/livedo/skynetsports4.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Sky Net Sports 5,https://cmt.mb13.cyou/c/livedo/skynetsports5.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Sky Net Sports 6,https://cmt.mb13.cyou/c/livedo/skynetsports6.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Sky Net Sports hD,https://cmt.mb13.cyou/c/livedo/skynetsportshd.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Soccer Channel,https://liveanevia.mncnow.id/live/eds/SoccerC,hannel2/sa_dash_vmx/SoccerChannel2.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Sport One,https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=sportone
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Sport TV 1,https://cmt.mb13.cyou/c/livedo/sporttv1.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Sport TV 2,https://cmt.mb13.cyou/c/livedo/sporttv2.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Sport TV 3,https://cmt.mb13.cyou/c/livedo/sporttv3.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Sport TV 4,https://cmt.mb13.cyou/c/livedo/sporttv4.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Sport TV 5,https://cmt.mb13.cyou/c/livedo/sporttv5.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+SportsTV,https://cmt.mb13.cyou/c/dolive/sportstv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Stadium TV,https://cmt.mb13.cyou/c/a/stadium.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Tennis Channel,https://cmt.mb13.cyou/c/dolive/tennis.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Tennis Channel Plus,https://cmt.mb13.cyou/c/dolive/tennisplus.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+True Premier Football hD 1,https://cmt.mb13.cyou/c/livedo/truepremierfootball1.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+True Premier Football hD 2,https://cmt.mb13.cyou/c/livedo/truepremierfootball2.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+True Premier Football hD 3,https://cmt.mb13.cyou/c/livedo/truepremierfootball3.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+True Premier Football hD 4,https://cmt.mb13.cyou/c/livedo/truepremierfootball4.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+True Premier Football hD 5,https://cmt.mb13.cyou/c/livedo/truepremierfootball5.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+True Sports 2,https://cmt.mb13.cyou/c/livedo/truesport2.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+True Sports 5,https://cmt.mb13.cyou/c/livedo/truesport5.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+True Sports 6,https://cmt.mb13.cyou/c/livedo/truesport6.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+True Sports 7,https://cmt.mb13.cyou/c/livedo/truesport7.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+True Sports hD,https://cmt.mb13.cyou/c/livedo/truesports1.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+True Sports hD 2,https://cmt.mb13.cyou/c/livedo/truesports2.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+True Sports hD 3,https://cmt.mb13.cyou/c/livedo/truesports3.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+True Sports hD 4,https://cmt.mb13.cyou/c/livedo/truesports4.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Usee Sports,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-useesport&b=15&c=useesport
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Usee Sports 2,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-useesports2&b=15&c=useesports2
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+ZQTV Sport,http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Arirang,https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Australia Plus,https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+BBC World News,https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Bloomberg,https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_das,h_vmx/Bloomberg.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+CGTN,https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Channel News Asia,https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_das,h_vmx/ChannelNewsAsia.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+CNBC,https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+CNN International,https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+DW,https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Euro News,https://liveanevia.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Fox News,https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+France24,https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+NhK World,https://liveanevia.mncnow.id/live/eds/N,hKWorldTV/sa_dash_vmx/NhKWorldTV.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+NhK World Premium,https://liveanevia.mncnow.id/live/eds/N,hKWorldPremium/sa_dash_vmx/NhKWorldPremium.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+RT English,https://liveanevia.mncnow.id/live/eds/RTEnglis,h/sa_dash_vmx/RTEnglish.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+SKY News,https://cmt.mb13.cyou/c/a/skynews.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+SKY News Extra,https://cmt.mb13.cyou/c/a/skynewsextra.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+The Weather Channel,https://cmt.mb13.cyou/c/a/theweatherchannel.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+TRT World,https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+B4U Movies,https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=b4umovieindia
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+B4U Music,https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=b4umusicindia
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Zee Cinema,https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Zee News,https://liveanevia.mncnow.id/live/eds/ZeeNews/sa_dash_vmx/ZeeNews.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Zee TV,https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Zing,https://liveanevia.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Anhui TV,https://liveanevia.mncnow.id/live/eds/An,huiTV/sa_dash_vmx/An,huiTV.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+CCTV4,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-cctv4&b=14&c=cctv4
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Channel V China,https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=vchina
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+ctiasia,https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-ctiasia&b=14&c=ctiasia
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+hunan TV,https://liveanevia.mncnow.id/live/eds/,hunanTV/sa_dash_vmx/hunanTV.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Jiangsu TV,https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Lotus Macau,https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=lotusmacau
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Phoenix C,hinese,https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=phoenixchinese
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Phoenix ,hongkong,https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=phoenixhongkong"
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Phoenix News,https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=phoenixnews"
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Shanghai Dragon TV,https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/S,hang,haiDragonTV.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+XingKong TV,https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Astro AEC,https://cmt.mb13.cyou/c/my/astroaec.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Astro Awani,https://cmt.mb13.cyou/c/my/astroawani.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Astro Ceria,https://cmt.mb13.cyou/c/my/astroceria.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Astro Go Shop,https://cmt.mb13.cyou/c/my/astrogoshop.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Astro Prima,https://cmt.mb13.cyou/c/my/astroprima.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Berita RTM,https://cmt.mb13.cyou/c/my/beritartm.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+hello,https://cmt.mb13.cyou/c/my/hello.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+Naura,https://cmt.mb13.cyou/c/my/naura.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+PBS Kids,https://cmt.mb13.cyou/c/my/pbskids.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+PERTIWI,https://cmt.mb13.cyou/c/my/pertiwitv.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+RTB Sukmaindera,https://cmt.mb13.cyou/c/my/rtbsukmaindera.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+RTM Sports,https://cmt.mb13.cyou/c/my/rtmsports.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+TV IKIM,https://cmt.mb13.cyou/c/my/tvikim.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+TV Okey,https://cmt.mb13.cyou/c/my/tvokey.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+TV1,https://cmt.mb13.cyou/c/my/tv1.m3u8
+#EXTINF: -1 group-title="Ungrouped", [untitled]
+TV2,https://cmt.mb13.cyou/c/my/tv2.m3u8
