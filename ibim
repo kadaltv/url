@@ -276,12 +276,12 @@ BBC Earth,https://liveanevia.mncnow.id/live/eds/BBCEart,h-hD/sa_dash_vmx/BBCEart
 Crime Investigation,https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 #EXTINF: -1 group-title="Ungrouped", [untitled]
 Discovery,https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
-#EXTINF: -1 group-title="Ungrouped", [untitled]
-Discovery Asia,https://cmt.mb13.cyou/c/pre/discoveryasia.m3u8
-#EXTINF: -1 group-title="Ungrouped", [untitled]
-Discovery Science,https://cmt.mb13.cyou/c/g/discoveryscience.m3u8
-#EXTINF: -1 group-title="Ungrouped", [untitled]
-Discovery Turbo,https://cmt.mb13.cyou/c/g/discoveryturbo.m3u8
+#EXTINF: -1 group-title="Ungrouped", Discovery Asia
+https://cmt.mb13.cyou/c/pre/discoveryasia.m3u8
+#EXTINF: -1 group-title="Ungrouped", Discovery Science
+https://cmt.mb13.cyou/c/g/discoveryscience.m3u8
+#EXTINF: -1 group-title="Ungrouped", Discovery Turbo
+https://cmt.mb13.cyou/c/g/discoveryturbo.m3u8
 #EXTINF: -1 group-title="Ungrouped", [untitled]
 DMAX,https://cmt.mb13.cyou/c/g/dmax.m3u8
 #EXTINF: -1 group-title="Ungrouped", [untitled]
