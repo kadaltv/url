@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF: -1 group-title="Sport",
+Astro Supersport
+https://cmt.mb13.cyou/c/dolive/astrosupersport.m3u8
+#EXTINF: -1 group-title="Sport",
+Astro Supersport 2
+https://cmt.mb13.cyou/c/dolive/astrosupersport2-alt.m3u8
+#EXTINF: -1 group-title="Sport",
+Astro Supersport 3
+https://cmt.mb13.cyou/c/dolive/astrosupersport3.m3u8
+#EXTINF: -1 group-title="Sport",
+Astro Supersport 4
+https://cmt.mb13.cyou/c/dolive/astrosupersport4-alt.m3u8
+#EXTINF: -1 group-title="Sport",
+Bein Sports hD 1
+https://cmt.mb13.cyou/c/livedo/bein1hd.m3u8
+#EXTINF: -1 group-title="Sport",
+Bein Sports hD 2
+https://cmt.mb13.cyou/c/livedo/bein2hd.m3u8
+#EXTINF: -1 group-title="Sport",
+Bein Sports Xtra
+https://cmt.mb13.cyou/c/alt/beinxtra2.m3u8
+#EXTINF: -1 group-title="Sport",
+BT Sport 1
+https://cmt.mb13.cyou/c/livedo/btsport1.m3u8
+#EXTINF: -1 group-title="Sport",
+BT Sport 2
+https://cmt.mb13.cyou/c/livedo/btsport2.m3u8
+#EXTINF: -1 group-title="Sport",
+Champions TV 1
+https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-champion1&b=15&c=champion1
+#EXTINF: -1 group-title="Sport",
+Champions TV 2
+https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-champion2&b=15&c=champion2
+#EXTINF: -1 group-title="Sport",
+Champions TV 3
+https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-6786&b=geo_6786
